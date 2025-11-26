@@ -71,3 +71,49 @@ Estruturas condicionais
 📌 Autor
 
 Projeto desenvolvido por Alex Paulo como atividade prática de Python.
+
+# Estruturas de Repetição – Exercício
+
+## 📌 Descrição
+Este projeto contém dois programas simples em Python que exibem todos os números pares entre 1 e 100.  
+A atividade demonstra o uso correto de:
+
+- Estruturas de repetição (for e while)
+- Operadores lógicos
+- Organização do código
+
+---
+
+## 🚀 Arquivos incluídos
+- contador_for.py → Exibe números pares usando *for*
+- contador_while.py → Exibe números pares usando *while*
+
+---
+
+## 📦 Como executar
+1. Certifique-se de ter o Python instalado.
+2. Execute no terminal:
+
+### Usando o código com FOR:
+bash
+python contador_for.py
+
+
+### Usando o código com WHILE:
+bash
+python contador_while.py
+
+
+---
+
+## 📝 Objetivo do exercício
+Exercitar:
+- Loops *for* e *while*
+- Condicionais simples
+- Operadores lógicos
+- Estruturação de código em Python
+
+---
+
+## 👤 Autor
+Projeto desenvolvido por Alex Paulo como atividade prática de Python.
